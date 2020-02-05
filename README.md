@@ -1,5 +1,8 @@
 # tennis API
 
+## view deployment
+https://tennis-api-demo.herokuapp.com/players
+
 ## installation
 ````npm install````
 
