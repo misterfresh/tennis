@@ -1,0 +1,28 @@
+{
+  "name": "tennis",
+  "version": "1.0.0",
+  "description": "A simple API to get information on tennis players",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --single-quote --no-semi --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterfresh/tennis.git"
+  },
+  "author": "https://github.com/misterfresh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/misterfresh/tennis/issues"
+  },
+  "homepage": "https://github.com/misterfresh/tennis#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.1",
+    "prettier": "^1.19.1"
+  }
+}
