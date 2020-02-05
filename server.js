@@ -54,3 +54,5 @@ server.listen(port, err => {
   }
   console.info('==> 🌎 Listening on port ', port)
 })
+
+module.exports = server
